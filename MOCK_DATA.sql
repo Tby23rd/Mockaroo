@@ -1,0 +1,10 @@
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (1, 'Austin', 'Court', 2, 'Coquitlam', '239-961-1021');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (2, 'Alleen', 'Tape', 4, 'Coquitlam', '697-946-3131');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (3, 'Skipper', 'Nuth', 6, 'Coquitlam', '560-389-2510');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (4, 'Godfrey', 'Glassopp', 8, 'New_Westminster', '669-980-8917');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (5, 'Emiline', 'Izkovicz', 10, 'Vancouver', '182-522-8318');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (6, 'Veronica', 'Beurich', 12, 'New_Westminster', '327-632-8868');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (7, 'Dean', 'Malloch', 14, 'Burnaby', '611-955-1924');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (8, 'Avrom', 'Lattie', 16, 'New_Westminster', '949-255-9313');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (9, 'Burgess', 'Adamovich', 18, 'Vancouver', '454-472-4296');
+insert into MOCK_DATA (id, first_name, last_name, formualexample, customexample, datasetexample) values (10, 'Nedi', 'Dakers', 20, 'Burnaby', '285-778-3442');
