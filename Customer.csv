@@ -1,0 +1,51 @@
+customer_id,customer_name,phone_number,email,address/street_address,address/postal_code,address/city
+1,Cindie Audley,239-961-1021,caudley0@yahoo.co.jp,5 Scott Crossing,6322,Coquitlam
+2,Hermine O' Brian,697-946-3131,ho1@techcrunch.com,6353 Evergreen Junction,1810,Richmond
+3,Luella Glowacz,560-389-2510,lglowacz2@fotki.com,9616 Eggendart Street,8733,Vancouver
+4,Ruy Bellwood,669-980-8917,rbellwood3@gravatar.com,6862 1st Crossing,4370,Burnaby
+5,Monti Debling,182-522-8318,mdebling4@zdnet.com,568 Anniversary Alley,8976,Burnaby
+6,Ruthie Beeston,327-632-8868,rbeeston5@phoca.cz,24270 Thompson Lane,5713,Richmond
+7,Myranda Carillo,611-955-1924,mcarillo6@webs.com,6047 Ludington Lane,8955,Burnaby
+8,Gill Flegg,949-255-9313,gflegg7@plala.or.jp,73611 Sundown Terrace,4084,Richmond
+9,Erich Glassborow,454-472-4296,eglassborow8@zimbio.com,10129 Northridge Alley,6843,Burnaby
+10,Gena Ivanchikov,285-778-3442,givanchikov9@globo.com,64 Briar Crest Road,3880,Coquitlam
+11,Clea Balazot,200-689-5821,cbalazota@sakura.ne.jp,547 Raven Park,5746,Richmond
+12,Alexis Baum,134-594-1799,abaumb@behance.net,790 Macpherson Hill,4084,Richmond
+13,Bailie Groarty,337-732-3341,bgroartyc@huffingtonpost.com,4574 Caliangt Junction,4239,New_Westminster
+14,Bartholomeo Roux,239-702-1801,brouxd@amazon.com,88 Dapin Alley,1181,Burnaby
+15,Elsa Cockshutt,597-962-8540,ecockshutte@jiathis.com,9 Truax Junction,3234,New_Westminster
+16,Kathy Hellwig,493-394-5483,khellwigf@uiuc.edu,7169 La Follette Parkway,7617,Vancouver
+17,Amos Lawrinson,347-211-2134,alawrinsong@photobucket.com,67 Buell Pass,6651,Richmond
+18,Fernanda Service,796-491-5555,fserviceh@parallels.com,611 Jay Hill,7736,Richmond
+19,Devin Culshew,839-737-0663,dculshewi@google.co.jp,6 Merrick Drive,1624,Coquitlam
+20,Di Wilsher,874-403-8697,dwilsherj@yahoo.co.jp,9618 Caliangt Street,1506,New_Westminster
+21,Dorothee D'Hooge,602-746-1959,ddhoogek@arizona.edu,1 Lakeland Place,3766,New_Westminster
+22,Kassey Mallock,584-643-1363,kmallockl@ustream.tv,235 Rigney Avenue,8016,New_Westminster
+23,Kelbee Di Pietro,310-889-3599,kdim@businessweek.com,42905 Loomis Circle,3407,Vancouver
+24,Hamnet Pfiffer,805-437-9167,hpfiffern@hp.com,1 Barnett Center,4372,New_Westminster
+25,Brina Agiolfinger,462-242-0958,bagiolfingero@theguardian.com,0250 4th Parkway,8937,New_Westminster
+26,Baldwin Haps,815-768-5071,bhapsp@qq.com,4904 Darwin Crossing,6131,Vancouver
+27,Starr Piddlehinton,654-440-9773,spiddlehintonq@discovery.com,76 Jenifer Parkway,3678,Burnaby
+28,Genny Leed,377-528-2330,gleedr@ifeng.com,64165 Southridge Crossing,7852,New_Westminster
+29,Durand Gavozzi,740-985-5801,dgavozzis@imdb.com,69 Bashford Terrace,4404,New_Westminster
+30,Maxy Barnard,345-184-3587,mbarnardt@ovh.net,24 Maple Street,8206,Burnaby
+31,Ciro Balle,139-462-5267,cballeu@delicious.com,767 Leroy Terrace,7446,New_Westminster
+32,Doralynne Poll,524-353-0528,dpollv@imgur.com,27857 Caliangt Pass,6049,Burnaby
+33,Kelcey Mace,870-401-3251,kmacew@aboutads.info,1 Northland Crossing,7563,Vancouver
+34,Jarid Chatainier,100-565-8580,jchatainierx@wikia.com,87930 Truax Center,6857,Richmond
+35,Andreas Teliga,507-172-7714,ateligay@goodreads.com,62541 Derek Circle,2905,Burnaby
+36,Sioux Labusquiere,192-997-4618,slabusquierez@cocolog-nifty.com,65167 Bartelt Pass,3852,Coquitlam
+37,Ilise Scutt,459-357-1861,iscutt10@mayoclinic.com,44 Russell Circle,5383,New_Westminster
+38,Madelle Coleson,933-996-7138,mcoleson11@nifty.com,73517 Fremont Avenue,6071,Richmond
+39,Inez Moffett,282-423-6714,imoffett12@mapy.cz,0081 Sunbrook Street,3432,Coquitlam
+40,Ursuline Minshaw,804-233-0654,uminshaw13@unicef.org,58281 Loftsgordon Plaza,8182,Richmond
+41,Sarene Dayes,590-736-7933,sdayes14@redcross.org,332 Calypso Center,5307,New_Westminster
+42,Peyton Duckhouse,314-960-2860,pduckhouse15@cmu.edu,19 Corry Drive,5213,Richmond
+43,Kore Tapsfield,823-570-0713,ktapsfield16@home.pl,084 Charing Cross Plaza,2098,Richmond
+44,Chelsea Cloute,569-781-5596,ccloute17@huffingtonpost.com,8 Tony Trail,4453,New_Westminster
+45,Alain Labell,367-784-7671,alabell18@meetup.com,9 Stoughton Park,2732,Richmond
+46,Rodge Outridge,703-117-4188,routridge19@webmd.com,58697 High Crossing Point,5134,Vancouver
+47,Leilah Kenvin,122-839-9888,lkenvin1a@unblog.fr,64 Hauk Hill,7133,Coquitlam
+48,Jennica Rowlstone,811-301-7322,jrowlstone1b@plala.or.jp,4 Anderson Road,3532,Vancouver
+49,Lina Sheron,835-212-5772,lsheron1c@examiner.com,4013 Dunning Road,3997,Burnaby
+50,Aharon Crofts,384-711-8104,acrofts1d@weibo.com,6 Mcguire Alley,4593,Richmond
